@@ -1,3 +1,4 @@
+
 # Images
 
 ```markdown
@@ -7,6 +8,8 @@
 # Reference
 ![Alternative text][id]
 [id]: url/to/image  "Optional title"
+
+
 ```
 Comme vous avez dû le remarquer, les images en Markdown sont très semblables aux liens.  
 La différence est la suivante :
